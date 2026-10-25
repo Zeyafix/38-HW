@@ -1,0 +1,21 @@
+id,name,quantity,currency,price
+001,Notebook,12,azn,4.50
+002,Ballpoint pen,40,azn,0.80
+003,Desk organizer,6,azn,18.75
+004,Backpack,5,azn,47.90
+005,Wireless mouse,8,usd,14.99
+006,Keyboard,4,usd,39.50
+007,USB microphone,3,usd,62.25
+008,Webcam,7,usd,28.40
+009,Sketchbook,15,rub,320.00
+010,Watercolor set,6,rub,875.50
+011,Desk calendar,10,rub,210.75
+012,Pencil case,9,rub,460.20
+013,Desk lamp,4,eur,24.90
+014,Laptop stand,5,eur,32.60
+015,Headphones,3,eur,55.80
+016,Portable SSD,2,eur,79.95
+017,"Cable, USB-C",20,cnh,25.50
+018,"Adapter ""Travel""",11,cnh,48.80
+019,Phone stand,14,cnh,16.90
+020,Power bank,6,cnh,112.30
